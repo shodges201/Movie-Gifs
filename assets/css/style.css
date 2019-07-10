@@ -1,0 +1,33 @@
+.rating{
+    margin-bottom: 10px;
+}
+
+.searchBtn{
+    margin: 5px;
+}
+
+.gifContainer{
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+#bigContainer{
+    overflow: hidden;
+}
+
+#gifsContainer{
+    float:left;
+}
+
+#searchTerm{
+    margin-top: 10px;
+}
+
+#addBtn{
+    margin-top: 10px;
+}
+
+#searchContainer{
+    float: right;
+    margin-right: 10px;
+}
